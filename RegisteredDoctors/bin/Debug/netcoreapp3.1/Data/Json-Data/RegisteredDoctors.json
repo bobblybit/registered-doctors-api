@@ -1,0 +1,63 @@
+
+  [
+    {
+      "Specailty": "Dermatologists",
+      "ResgitrationNumber": "doc558556487088",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Endocrinologists",
+      "ResgitrationNumber": "doc346758842853",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Cardiologists",
+      "ResgitrationNumber": "doc68459397752",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Dermatologists",
+      "ResgitrationNumber": "doc321760050383",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Dermatologists",
+      "ResgitrationNumber": "doc861900662065",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Ophthalmologists",
+      "ResgitrationNumber": "doc700549230016",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Ophthalmologists",
+      "ResgitrationNumber": "doc422974734356",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Cardiologists",
+      "ResgitrationNumber": "doc246526136058",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Cardiologists",
+      "ResgitrationNumber": "doc246506376058",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Urologists",
+      "ResgitrationNumber": "doc504557129961",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Urologists",
+      "ResgitrationNumber": "doc904557129961",
+      "SanctionStatus": false
+    },
+    {
+      "Specailty": "Dermatologists",
+      "ResgitrationNumber": "doc155965715628",
+      "SanctionStatus": false
+    }
+  ]
