@@ -16,7 +16,7 @@ jobs:
         HEROKU_API_KEY: ${{ secrets.REGISTEREDDOCTOS }}
         APP_NAME: ${{ secrets.APP_NAME }}
       run: |
-        cd ./registereddoctors
+        cd ./registered-doctors-api/RegisteredDoctors/
 
         docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
         heroku container:push web -a $APP_NAME
